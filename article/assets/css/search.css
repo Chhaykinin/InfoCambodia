@@ -1,0 +1,33 @@
+.search_bar{
+    height: 34px;
+    margin-top: 40px;
+}
+.search_bar input{
+    margin-left: 48px;
+    width: 251.6px;
+    height: 34px;
+    border: 1px solid #cacaca;
+    padding-left: 16px;
+}
+.search_bar button{
+    width: 134.3px ;
+    height: 34px;
+    text-align: center;
+    border: none;
+    background-color: #ed1c24;
+    color: #fff;
+    margin-left: 21.6px;
+}
+.search_main{
+    width: 1279.2px !important;
+    height: 364px;
+
+}
+#news_box{
+    width: 303.8px !important;
+}
+#news_box_text{
+    width: 271.8px !important;
+    height: 169.2px;
+    margin-top: 19.6px;
+}

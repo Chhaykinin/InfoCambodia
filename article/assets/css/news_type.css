@@ -1,0 +1,27 @@
+.type_header{
+    height: 320px;
+    background-color: #8b8b8b;
+}
+.type_header img{
+    filter: blur(1px);
+}
+.half_header{
+    height: 296px;
+    top: 24px;
+}
+.half_header h3{
+    margin-left: 80px;
+    font-size: 24px;
+    font-weight: 700;
+    color: #ffffff;
+}
+.news_type_main{
+    width: 1380px !important;
+    height: 364px;
+}
+.news_box{
+    float: left;
+    width: 260px !important;
+    margin-right: 16px !important;
+    margin-top: 50px !important ;
+}
