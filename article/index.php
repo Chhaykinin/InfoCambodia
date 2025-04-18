@@ -574,13 +574,13 @@
     <!-- news_ content -->
     <div class="container-fluid news_bar p-0 d-flex align-items-center">
         <div class="news_bar_details">
-            <p>ពិព័រណ៍មុខរបរ 2022</p>
+            <p>ពិព័រណ៍មុខរបរ 2025</p>
             <div class="line"></div>
             <a href=""><button>មើល​បន្ថែម​</button></a>
         </div>
         <div class="news_block">
             <?php
-            $sql_select = "SELECT * FROM tbl_news WHERE news_type='ពិព័រណ៍មុខរបរ 2022' LIMIT 3";
+            $sql_select = "SELECT * FROM tbl_news WHERE news_type='ពិព័រណ៍មុខរបរ 2025' LIMIT 3";
             $result = $con->query($sql_select);
             while ($row = mysqli_fetch_assoc($result)) {
                 echo '

@@ -71,12 +71,19 @@
                                     </div>
                                 </div>
     
-                                <div class="form-group mb-0 row mt-2">
+                                <!-- <div class="form-group mb-0 row mt-2">
                                     <div class="col-sm-7 mt-3">
                                         <a href="./recover_password.php" class="text-muted"><i class="mdi mdi-lock"></i> Forgot your password?</a>
                                     </div>
                                     <div class="col-sm-5 mt-3">
                                         <a href="./register.php" class="text-muted"><i class="mdi mdi-account-circle"></i> Create an account</a>
+                                    </div>
+                                </div> -->
+                                <div class="form-group mb-0 row mt-2 justify-content-center">
+                                    <div class="col-auto mt-3 text-center">
+                                        <a href="./register.php" class="text-muted">
+                                            <i class="mdi mdi-account-circle"></i> Create an account
+                                        </a>
                                     </div>
                                 </div>
                             </form>

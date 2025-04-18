@@ -53,7 +53,7 @@
                                 <li><a href="">មុខរបរកសិកម្ម</a></li>
                                 <li><a href="">មុខរបរបច្ចេកវិទ្យា</a></li>
                                 <li><a href="">អត្ថបទ PR</a></li>
-                                <li><a href="">ពិព័រណ៍មុខរបរ 2022</a></li>
+                                <li><a href="">ពិព័រណ៍មុខរបរ 2025</a></li>
                                 <li><a href="">របាយការណ៍</a></li>
                             </ul>
                         </div>
@@ -83,6 +83,6 @@
         </div>
     </div>
     <div class="container-fluid p-0 end d-flex justify-content-around align-items-center">
-        <span>© 2022 Baksey Media. All Rights Reserved.</span>
+        <span>© 2025 InfoCambodia. All Rights Reserved.</span>
         <span>Developed by: Chhay kinin</span>
     </div>

@@ -60,7 +60,7 @@
                                                 <option value="មុខរបរបច្ចេកវិទ្យា">មុខរបរបច្ចេកវិទ្យា</option>
                                                 <option value="របាយការណ៍">របាយការណ៍</option>
                                                 <option value="អត្ថបទ PR">អត្ថបទ PR</option>
-                                                <option value="ពិព័រណ៍មុខរបរ 2022">ពិព័រណ៍មុខរបរ 2022</option>
+                                                <option value="ពិព័រណ៍មុខរបរ 2022">ពិព័រណ៍មុខរបរ 2025</option>
                                                 <option value="ចាប់ផ្តើមអាជីវកម្ម">ចាប់ផ្តើមអាជីវកម្ម</option>
                                                 <option value="អចលនទ្រព្យ">អចលនទ្រព្យ</option>
                                                 <option value="ភាពជាអ្នកដឹកនាំ">ភាពជាអ្នកដឹកនាំ</option>
