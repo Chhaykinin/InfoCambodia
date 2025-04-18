@@ -20,7 +20,7 @@
 <body>
     <?php include("header.php"); ?>
     <div class="container-fluid p-0 type_header position-relative">
-        <img class="position-absolute" src="./assets/img/bg1.jpg" width="100%" height="100%" alt="">
+        <img class="position-absolute" src="./assets/img/bg1.webp" width="100%" height="100%" alt="">
         <div class="container-fluid p-0 half_header position-absolute d-flex align-items-center ">
             <h3>បំផុសសកម្មភាពអាជីវកម្មថ្មីៗទាំងនៅក្នុងស្រុក និងក្រៅស្រុក</h3>
         </div>
