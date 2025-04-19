@@ -276,7 +276,7 @@
         </div>
         <div class="news_block">
             <?php
-            $sql_select = "SELECT * FROM tbl_news WHERE news_type='អត្ថបទថ្មីៗ' LIMIT 3";
+            $sql_select = "SELECT * FROM tbl_news WHERE news_type='ចាប់ផ្តើមអាជីវកម្ម' LIMIT 3";
             $result = $con->query($sql_select);
             while ($row = mysqli_fetch_assoc($result)) {
                 echo '
