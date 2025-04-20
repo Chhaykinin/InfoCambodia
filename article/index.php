@@ -200,7 +200,7 @@
         </div>
         <div class="news_block">
             <?php
-            $sql_select = "SELECT * FROM tbl_news ORDER BY viewer DESC LIMIT 3";
+            $sql_select = "SELECT * FROM tbl_news ORDER BY viewer DESC LIMIT 4";
             $result = $con->query($sql_select);
             while ($row = mysqli_fetch_assoc($result)) {
                 echo '
@@ -238,7 +238,7 @@
         </div>
         <div class="news_block">
             <?php
-            $sql_select = "SELECT * FROM tbl_news WHERE news_type='អត្ថបទថ្មីៗ' LIMIT 3";
+            $sql_select = "SELECT * FROM tbl_news WHERE news_type='អត្ថបទថ្មីៗ' LIMIT 4";
             $result = $con->query($sql_select);
             while ($row = mysqli_fetch_assoc($result)) {
                 echo '
@@ -276,7 +276,7 @@
         </div>
         <div class="news_block">
             <?php
-            $sql_select = "SELECT * FROM tbl_news WHERE news_type='ចាប់ផ្តើមអាជីវកម្ម' LIMIT 3";
+            $sql_select = "SELECT * FROM tbl_news WHERE news_type='ចាប់ផ្តើមអាជីវកម្ម' LIMIT 4";
             $result = $con->query($sql_select);
             while ($row = mysqli_fetch_assoc($result)) {
                 echo '
@@ -314,7 +314,7 @@
         </div>
         <div class="news_block">
             <?php
-            $sql_select = "SELECT * FROM tbl_news WHERE news_type='អចលនទ្រព្យ' LIMIT 3";
+            $sql_select = "SELECT * FROM tbl_news WHERE news_type='អចលនទ្រព្យ' LIMIT 4";
             $result = $con->query($sql_select);
             while ($row = mysqli_fetch_assoc($result)) {
                 echo '
@@ -352,7 +352,7 @@
         </div>
         <div class="news_block">
             <?php
-            $sql_select = "SELECT * FROM tbl_news WHERE news_type='ភាពជាអ្នកដឹកនាំ' LIMIT 3";
+            $sql_select = "SELECT * FROM tbl_news WHERE news_type='ភាពជាអ្នកដឹកនាំ' LIMIT 4";
             $result = $con->query($sql_select);
             while ($row = mysqli_fetch_assoc($result)) {
                 echo '
@@ -390,7 +390,7 @@
         </div>
         <div class="news_block">
             <?php
-            $sql_select = "SELECT * FROM tbl_news WHERE news_type='ហិរញ្ញវត្ថុ' LIMIT 3";
+            $sql_select = "SELECT * FROM tbl_news WHERE news_type='ហិរញ្ញវត្ថុ' LIMIT 4";
             $result = $con->query($sql_select);
             while ($row = mysqli_fetch_assoc($result)) {
                 echo '
@@ -428,7 +428,7 @@
         </div>
         <div class="news_block">
             <?php
-            $sql_select = "SELECT * FROM tbl_news WHERE news_type='កំពូលអ្នកលក់' LIMIT 3";
+            $sql_select = "SELECT * FROM tbl_news WHERE news_type='កំពូលអ្នកលក់' LIMIT 4";
             $result = $con->query($sql_select);
             while ($row = mysqli_fetch_assoc($result)) {
                 echo '
@@ -466,7 +466,7 @@
         </div>
         <div class="news_block">
             <?php
-            $sql_select = "SELECT * FROM tbl_news WHERE news_type='មុខរបរកសិកម្ម' LIMIT 3";
+            $sql_select = "SELECT * FROM tbl_news WHERE news_type='មុខរបរកសិកម្ម' LIMIT 4";
             $result = $con->query($sql_select);
             while ($row = mysqli_fetch_assoc($result)) {
                 echo '
@@ -504,7 +504,7 @@
         </div>
         <div class="news_block">
             <?php
-            $sql_select = "SELECT * FROM tbl_news WHERE news_type='មុខរបរបច្ចេកវិទ្យា' LIMIT 3";
+            $sql_select = "SELECT * FROM tbl_news WHERE news_type='មុខរបរបច្ចេកវិទ្យា' LIMIT 4";
             $result = $con->query($sql_select);
             while ($row = mysqli_fetch_assoc($result)) {
                 echo '
@@ -542,7 +542,7 @@
         </div>
         <div class="news_block">
             <?php
-            $sql_select = "SELECT * FROM tbl_news WHERE news_type='អត្ថបទ PR' LIMIT 3";
+            $sql_select = "SELECT * FROM tbl_news WHERE news_type='អត្ថបទ PR' LIMIT 4";
             $result = $con->query($sql_select);
             while ($row = mysqli_fetch_assoc($result)) {
                 echo '
@@ -580,7 +580,7 @@
         </div>
         <div class="news_block">
             <?php
-            $sql_select = "SELECT * FROM tbl_news WHERE news_type='ពិព័រណ៍មុខរបរ 2025' LIMIT 3";
+            $sql_select = "SELECT * FROM tbl_news WHERE news_type='ពិព័រណ៍មុខរបរ 2025' LIMIT 4";
             $result = $con->query($sql_select);
             while ($row = mysqli_fetch_assoc($result)) {
                 echo '
@@ -618,7 +618,7 @@
         </div>
         <div class="news_block">
             <?php
-            $sql_select = "SELECT * FROM tbl_news WHERE news_type='របាយការណ៍' LIMIT 3";
+            $sql_select = "SELECT * FROM tbl_news WHERE news_type='របាយការណ៍' LIMIT 4";
             $result = $con->query($sql_select);
             while ($row = mysqli_fetch_assoc($result)) {
                 echo '
